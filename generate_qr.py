@@ -4,7 +4,7 @@ import qrcode
 from qrcode.constants import ERROR_CORRECT_M
 
 
-WEBSITE_URL = "https://yourusername.github.io/photo-website/"
+WEBSITE_URL = "https://voskal.github.io/"
 OUTPUT_FILE = Path("website-qr-code.png")
 
 
